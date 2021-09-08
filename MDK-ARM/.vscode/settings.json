@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "chassis_task.h": "c",
+        "init_task.h": "c",
+        "math2.h": "c",
+        "usart.h": "c",
+        "main.h": "c",
+        "remote.h": "c",
+        "chassis_motor.h": "c",
+        "usart6.h": "c",
+        "shell_task.h": "c",
+        "uart8.h": "c",
+        "servo_task.h": "c",
+        "common.h": "c",
+        "stm32f4xx.h": "c",
+        "timer4.h": "c",
+        "timer5.h": "c",
+        "servo_timer.h": "c",
+        "shell.h": "c",
+        "freertos.h": "c",
+        "stdio.h": "c",
+        "stm32f427xx.h": "c",
+        "task.h": "c",
+        "buzzer.h": "c",
+        "buzzer_task.h": "c",
+        "led.h": "c",
+        "led_task.h": "c",
+        "init_all_peripheral.h": "c"
+    }
+}
